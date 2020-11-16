@@ -7,4 +7,7 @@ Edit the readme, then practice pulling and changing it.
 
 This can be done from the command line or with the desktop app.
 
-We are on the develop branch and about to merge.
+We are on the develop branch.
+
+Is the branching working?
+
